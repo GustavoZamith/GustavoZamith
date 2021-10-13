@@ -3,10 +3,10 @@
 - 🌱 Eu estou fazendo curso técnico de Desenvolvimento de Sistemas.
 - ⚡ Um fato engraçado: Tenho 15 Anos...
 
-<div align="center" display="flex">
+<div align="center">
   <a href="https://github.com/GustavoZamith">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=GustavoZamith&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZamith&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GustavoZamith&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZamith&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
