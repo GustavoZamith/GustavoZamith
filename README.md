@@ -1,7 +1,6 @@
 ## Bom dia, Boa tarde, Boa noite, Eu sou o GustavoZamith
 
 - 🌱 Eu estou fazendo curso técnico de Desenvolvimento de Sistemas.
-- ⚡ Um fato engraçado: Tenho 15 Anos...
 
 <div align="center">
   <a href="https://github.com/GustavoZamith">
